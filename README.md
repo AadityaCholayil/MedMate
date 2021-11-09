@@ -1,16 +1,12 @@
-# medmate
+# MedMate
 
-A new Flutter application.
+MedMate is a Medicine Reminder App that reminds the user to take their medication on time by sending push notifications. 
 
-## Getting Started
+It has a clean and easy UI for the elderly. 
 
-This project is a starting point for a Flutter application.
+MedMate allows users to add their prescribed course with details like timing, weekly frequency, medicine type, dosage, etc. 
 
-A few resources to get you started if this is your first Flutter project:
+Users can also check their previous records at any time.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+It uses the BLOC pattern for State Management. It uses SQLite for the database.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
